@@ -15,3 +15,4 @@ You can instantly clone this project and set it up as a new site on [Netlify](ht
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
 
+<iframe src="https://app.datadoghq.com/graph/embed?token=0c5b7ee46ee1de6dd4cb163b5211cb42ab1fdbd635585a8923d47b930c0476be&height=500&width=1000&legend=true" width="1000" height="500" frameborder="0"></iframe>
